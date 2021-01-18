@@ -1,0 +1,14 @@
+{
+  "name": "ui-kit",
+  "description": "Testing...",
+  "version": "1.0.0",
+  "devDependencies": {
+    "react-native-paper": "^3.11.0",
+    "react-native-vector-icons": "^7.1.0",
+    "lodash": "^4.17.20"
+  },
+  "peerDependencies": {
+    "react": "^16.8",
+    "react-native": ">=0.59"
+  }
+}
