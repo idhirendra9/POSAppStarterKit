@@ -1,0 +1,6 @@
+module Pods_POSAppStarterKit {
+  umbrella header "Pods-POSAppStarterKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
